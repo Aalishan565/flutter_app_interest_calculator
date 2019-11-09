@@ -2,15 +2,14 @@
 
 A flutter app for interest calculator.
 
-## Getting Started
+Simple UI
 
-This project is a starting point for a Flutter application.
+![Screenshot_1573319327](https://user-images.githubusercontent.com/13122080/68532414-e9980380-0342-11ea-9a38-dbcdcddfcedd.png)
 
-A few resources to get you started if this is your first Flutter project:
+A Validation layer
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Screenshot_1573319345](https://user-images.githubusercontent.com/13122080/68532452-3aa7f780-0343-11ea-84dd-5c96a1b4028d.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Calucator 
+
+![Screenshot_1573319375](https://user-images.githubusercontent.com/13122080/68532436-16e4b180-0343-11ea-8d6f-cb102fefd7c2.png)
